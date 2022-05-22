@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Eliash Hossain.</h1>
-<h3 align="center">i'm junior frontend developer from Bangladeh.</h3>
+### Hi there 👋, I'm Eliash Hossain.
+#### i'm junior frontend developer from Bangladeh.
+![i'm junior frontend developer from Bangladeh.](https://res.cloudinary.com/practicaldev/image/fetch/s--bLta6W8J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/aohjuabx6sccnsrgkmco.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliashhossain&label=Profile%20views&color=0e75b6&style=flat" alt="eliashhossain" /> </p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🌱 I’m currently learning **HYML & CSS AND JAVASRCIPT.**
+Skills:  REACT / JS / HTML / CSS
 
-- 💬 Ask me about **Web Development.**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning HTML & CSS AND JS 
+- 💬 Ask me about Web Development. 
+- 📫 How to reach me: mdeliashhossain527@gmail.com 
 
-- 📫 How to reach me **mdeliashhossain527@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eliashhossain)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliashhossain)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliashhossain&show_icons=true&locale=en&layout=compact" alt="eliashhossain" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliashhossain&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliashhossain&" alt="eliashhossain" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eliashhossain)  
+
+![Profile views](https://gpvc.arturio.dev/eliashhossain)  
