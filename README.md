@@ -1,5 +1,5 @@
 ![i'm junior frontend developer from Bangladeh.](https://res.cloudinary.com/practicaldev/image/fetch/s--bLta6W8J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/aohjuabx6sccnsrgkmco.jpg)
-### Hi there 👋, I'm Eliash Hossain.
+### Hi, I'm Eliash Hossain.
 #### i'm junior frontend developer from Bangladeh.
 
 
